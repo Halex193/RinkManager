@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RinkManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="rink_image">Rink image</string>
+</resources>
